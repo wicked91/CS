@@ -1,4 +1,4 @@
-## Blocking/NonBlocking
+## Blocking/NonBlocking/Synchronous/Asynchronous
 
 1. Blocking/NonBlocking은 호출되는 함수가 바로 리턴하느냐 마느냐가 관심사이다.
 
